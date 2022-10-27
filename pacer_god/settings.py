@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q$&_c94*8xgf)hgp+rm2r2^!htyh^m3&_gd4)cd^zsvvlvp+xi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mellifluous-halva-491ad3.netlify.app']
+ALLOWED_HOSTS = ['127.0.0.1', 'polynets.herokuapp.com']
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
