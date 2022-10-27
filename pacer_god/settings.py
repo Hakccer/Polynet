@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['127.0.0.1', 'polynets.herokuapp.com']
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'https://delicate-biscuit-0b2f8b.netlify.app'
+    'https://peppy-zuccutto-08a783.netlify.app'
 ]
 
 # Application definition
